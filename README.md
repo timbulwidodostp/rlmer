@@ -1,6 +1,8 @@
 # rlmer
 Robust linear mixed models Use rlmer (robustlmm) With (In) R Software
 
+https://www.youtube.com/watch?v=rb8LkJPqGew
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
